@@ -1,6 +1,8 @@
 <h2>Hi 👋, I'm Bhasitha</h2>
 <h3>Undergraduate and life-long learner</h3> 
 
+![Visitor Count](https://profile-counter.glitch.me/{bukomangoda}/count.svg)
+
 <a href="" target="blank"><img align="mmiddle" src="icons/fff.svg" alt="bukomangoda" width="600px" /></a>
 
 ### Connect with me
