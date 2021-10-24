@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bukomangoda&label=Profile%20views&color=0e75b6&style=flat" alt="bukomangoda" /> </p>
 
-<a href="" target="blank"><img align="mmiddle" src="icons/fff.svg" alt="bukomangoda" width="600px" /></a>
-
 ### Connect with me
 <a href="" target="blank"><img align="left" src="icons/twitter.svg" alt="bukomangoda" width="18px" /></a>
 <a href="" target="blank"><img align="left" src="icons/linkedin.svg" alt="bukomangoda" width="18px" /></a>
@@ -25,6 +23,7 @@
 
 ![](https://raw.githubusercontent.com/bukomangoda/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/bukomangoda/github-stats-transparent/output/generated/languages.svg)
+![](https://github.com/github/bukomangoda/actions/workflows/main.yml/badge.svg)
 
 
 
