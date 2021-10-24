@@ -4,7 +4,7 @@
 <a href="" target="blank"><img align="mmiddle" src="icons/fff.svg" alt="bukomangoda" width="600px" /></a>
 
 ### Connect with me
-<a href="" target="blank"><img align="left" src="icons/twitter.svg" alt="bukomangoda" width="22px" /></a>
+<a href="" target="blank"><img align="left" src="icons/twitter.svg" alt="bukomangoda" width="18px" /></a>
 <a href="" target="blank"><img align="left" src="icons/linkedin.svg" alt="bukomangoda" width="22px" /></a>
 <a href="" target="blank"><img align="left" src="icons/facebook.svg" alt="bukomangoda" width="22px" /></a>
 <a href="" target="blank"><img align="left" src="icons/instagram.svg" alt="bukomangoda" width="22px" /></a>
