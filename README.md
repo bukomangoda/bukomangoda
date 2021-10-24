@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Bhasitha</h2>
 <h3>Undergraduate and life-long learner</h3> 
 
-<a href="" target="blank"><img align="center" src="icons/fff.svg" alt="bukomangoda" width="85px" /></a>
+<a href="" target="blank"><img align="center" src="icons/fff.svg" alt="bukomangoda" width="150px" /></a>
 
 ### Connect with me
 <a href="" target="blank"><img align="left" src="icons/twitter.svg" alt="bukomangoda" width="22px" /></a>
