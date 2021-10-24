@@ -1,7 +1,8 @@
 <h2>Hi 👋, I'm Bhasitha</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bukomangoda&label=Profile%20views&color=0e75b6&style=flat" alt="bukomangoda" /> </p>
 <h3>Undergraduate and life-long learner</h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bukomangoda&label=Profile%20views&color=0e75b6&style=flat" alt="bukomangoda" /> </p>
+
 
 ### Connect with me
 <a href="" target="blank"><img align="left" src="icons/twitter.svg" alt="bukomangoda" width="18px" /></a>
@@ -21,9 +22,6 @@
 <a target="blank"><img align="left" src="icons/react.svg" alt="bukomangoda" width="22px" /></a>
 
 
-![](https://raw.githubusercontent.com/bukomangoda/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/bukomangoda/github-stats-transparent/output/generated/languages.svg)
-![](https://github.com/github/bukomangoda/actions/workflows/main.yml/badge.svg)
 
 
 
