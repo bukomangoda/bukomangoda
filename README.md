@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Bhasitha</h2>
 <h3>Undergraduate and life-long learner</h3> 
 
-![Visitor Count](https://profile-counter.glitch.me/{bukomangoda}/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bukomangoda&label=Profile%20views&color=0e75b6&style=flat" alt="bukomangoda" /> </p>
 
 <a href="" target="blank"><img align="mmiddle" src="icons/fff.svg" alt="bukomangoda" width="600px" /></a>
 
