@@ -1,7 +1,9 @@
-<h2>Hi 👋, I'm Bhasitha</h2>
+##Hi there👋, 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bukomangoda&label=Profile%20views&color=0e75b6&style=flat" alt="bukomangoda" /> </p>
-<h3>Undergraduate and life-long learner</h3> 
 
+### I'm Bhasitha Udara,a life-long learner.I’m currently an undergraduate of NSBM Green University  
+
+<hr>
 
 
 ### Connect with me
@@ -12,7 +14,7 @@
 <a href="" target="blank"><img align="left" src="icons/leetcode.svg" alt="bukomangoda" width="18px" /></a>
 <br />
 
-### Languages
+### Languages  and Tools: 
 <a target="blank"><img align="left" src="icons/html.svg" alt="bukomangoda" width="22px" /></a>
 <a target="blank"><img align="left" src="icons/css3.svg" alt="bukomangoda" width="22px" /></a>
 <a target="blank"><img align="left" src="icons/c.svg" alt="bukomangoda" width="22px" /></a>
@@ -20,6 +22,11 @@
 <a target="blank"><img align="left" src="icons/java.svg" alt="bukomangoda" width="22px" /></a>
 <a target="blank"><img align="left" src="icons/javascript.svg" alt="bukomangoda" width="22px" /></a>
 <a target="blank"><img align="left" src="icons/react.svg" alt="bukomangoda" width="22px" /></a>
+
+<hr>
+
+![Bhasitha's github stats](https://github-readme-stats.vercel.app/api?username=bukomangoda&layout=compact&langs_count=8&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bukomangoda&layout=compact&langs_count=8&theme=light)
 
 
 
