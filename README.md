@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Bhasitha</h2>
 <h3>Undergraduate and life-long learner</h3> 
 
-<a href="" target="blank"><img align="mmiddle" src="icons/fff.svg" alt="bukomangoda" width="220px" /></a>
+<a href="" target="blank"><img align="mmiddle" src="icons/fff.svg" alt="bukomangoda" width="600px" /></a>
 
 ### Connect with me
 <a href="" target="blank"><img align="left" src="icons/twitter.svg" alt="bukomangoda" width="22px" /></a>
@@ -20,7 +20,7 @@
 <a target="blank"><img align="left" src="icons/javascript.svg" alt="bukomangoda" width="22px" /></a>
 <a target="blank"><img align="left" src="icons/react.svg" alt="bukomangoda" width="22px" /></a>
 
-### Info
+
 
 
 
