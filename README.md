@@ -21,6 +21,11 @@
 <a target="blank"><img align="left" src="icons/react.svg" alt="bukomangoda" width="22px" /></a>
 
 
+![](https://raw.githubusercontent.com/bukomangoda/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/bukomangoda/github-stats-transparent/output/generated/languages.svg)
+
+
+
 
 
 
