@@ -1,5 +1,4 @@
 ## Hi there👋, 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bukomangoda&label=Profile%20views&color=0e75b6&style=flat" alt="bukomangoda" /> </p>
 
 #### I'm Bhasitha Udara,a life-long learner.I’m currently an undergraduate of NSBM Green University  
 
