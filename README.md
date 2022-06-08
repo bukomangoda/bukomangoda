@@ -9,7 +9,7 @@
 <a href="" target="blank"><img align="left" src="icons/twitter.svg" alt="bukomangoda" width="18px" /></a>
 <a href="https://www.linkedin.com/in/bhasitha-udara/" target="blank"><img align="left" src="icons/linkedin.svg" alt="bukomangoda" width="18px" /></a>
 <a href="https://www.facebook.com/basitha.komangoda" target="blank"><img align="left" src="icons/facebook.svg" alt="bukomangoda" width="18px" /></a>
-<a href="" target="https://www.instagram.com/bhasithakomangoda/"><img align="left" src="icons/instagram.svg" alt="bukomangoda" width="18px" /></a>
+<a href="https://www.instagram.com/bhasithakomangoda/" target="blank"><img align="left" src="icons/instagram.svg" alt="bukomangoda" width="18px" /></a>
 <br />
 
 #### Languages  and Tools: 
