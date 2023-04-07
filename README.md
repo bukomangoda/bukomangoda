@@ -21,6 +21,7 @@
 <a target="blank"><img align="left" src="icons/javascript.svg" alt="bukomangoda" width="22px" /></a>
 <a target="blank"><img align="left" src="icons/react.svg" alt="bukomangoda" width="22px" /></a>
 <a target="blank"><img align="left" src="icons/python.svg" alt="bukomangoda" width="22px" /></a>
+<a target="blank"><img align="left" src="icons/node.svg" alt="bukomangoda" width="22px" /></a>
 <br>
 
 <hr>
