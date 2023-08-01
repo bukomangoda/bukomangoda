@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://drive.google.com/file/d/1J_6TD3rs77tOI-9fxkgOEtx7i6bMrizH/view?usp=sharing"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+  <a href=""><img src="icons/pp.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
