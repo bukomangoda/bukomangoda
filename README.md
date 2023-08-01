@@ -1,9 +1,14 @@
-## Hi there👋, 
+<h3 align="center">
+Hi there, I'm Bhasitha Udara 👋
+</h3>
 
-#### I'm Bhasitha Udara,a life-long learner.I’m currently an undergraduate of NSBM Green University  
+<h2 align="center">
+I'm a Full-Stack Web Developer 💻, and Designer 🎨!
+</h2> 
+
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 <hr>
-
 
 #### Connect with me
 <a href="" target="blank"><img align="left" src="icons/twitter.svg" alt="bukomangoda" width="18px" /></a>
